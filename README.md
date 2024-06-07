@@ -1,4 +1,4 @@
-![Banner](https://github.com/Dantetripodi/Dantetripodi/assets/89793048/311137af-1de0-45ee-8770-f15b6e6a5ed5)
+![Banner](https://github.com/HurtadoAgustin/HurtadoAgustin/blob/master/banner.jpg)
 # front end Developer/Data Analyst
 
 <h1> Hi, I'm Tripodi Dante, welcome to my GitHub Page! 👋 </h1>
